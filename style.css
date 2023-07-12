@@ -1,0 +1,454 @@
+.logo{
+    width: 200px;
+}
+
+.apple{
+    width: 24px;
+}
+
+.links{
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    font-weight: 600;
+    margin-right: 22px;
+    font-size: 18px;
+}
+
+.signin{
+    background-color: #00baf2;
+    border: none;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 18px;
+
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    align-items: center;
+}
+
+.parent{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.material-symbols-outlined{
+    border-radius: 50%;
+    background-color: blue;
+    padding: 5px;
+}
+
+.text{
+    margin-right: 13px;
+}
+
+.second{
+    width: 50%;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+.india{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    align-items: center;
+    
+}
+
+.pgn{
+    width: 90px;
+}
+
+.hawkeye{
+    font-size: 60px;
+   font-weight: 700;
+   font-family:  'Inter', sans-serif !important ;
+}
+
+.rogers{
+    font-size: 20px;
+    font-weight: 300;
+     
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    border-radius: 40px;
+    color: aliceblue;
+    font-family:  'Inter', sans-serif !important ;
+    font-size: 15px;
+    margin-top: 40px;
+    padding: 10px 15px 10px 15px;
+    border: 5px solid black;
+}
+
+.mobiles{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 60%;
+}
+
+.width{
+    width: 580px;
+}
+
+.india2{
+    background-color: #00baf2;
+   border: #00baf2;
+    border-radius: 2px;
+   border-width: 60px;
+    padding: 30px;
+    
+}
+.recharge{
+    font-family:  'Inter', sans-serif !important ;
+    font-weight: 300px;
+    font-size: 40px;
+    color: white;
+}
+
+.bold{
+    color: white;
+    font-size: 17px;
+    font-family:  'Inter', sans-serif !important ;
+    font-weight: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.section1logo{
+    width: 70px;
+}
+
+.section2logo{
+    width: 70px;
+}
+
+.india3{
+    background-color:   #0c0c59;
+   
+    border-radius: 2px;
+   border-width: 40px;
+    padding: 30px;
+}
+
+.bold2{
+    color: white;
+    font-size: 17px;
+    font-family:  'Inter', sans-serif !important ;
+    font-weight: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.greybackground{
+    background-color:white;
+    
+    
+}
+.ins{
+    background-color: #f5f7fa;
+    font-size: 22px;
+    font-family :'Inter', sans-serif;
+}
+
+.Paytmwallet{
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+}
+
+.tm{
+    font-size: 18px;
+   font-weight: 400px;
+    
+}
+
+.steve{
+    font-size: 40px;
+
+}
+
+.walletlogo{
+    width: 80px;
+}
+
+.white1{
+    /* border:  rgb(223, 216, 216); */
+    background-color: white;
+    border-radius: 60px;
+    padding: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+}
+
+.hal{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.white2{
+    /* border: 50px  rgb(223, 216, 216); */
+    background-color: white;
+    padding: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+
+}
+
+.paytmpostpaid{
+    width: 200px;
+}
+
+.hdfc{
+    /* border: 50px outset rgb(223, 216, 216); */
+    border-radius: 20px;
+    background-color: white;
+    padding: 60px;
+    margin: 30px;
+    align-items: center;
+   
+}
+
+.hdfccard{
+    width: 500px;
+}
+
+.paytmhdfc{
+    width: 200px;
+}
+
+.smallsubunits{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nayamaal1{
+    /* border: 50px outset white; */
+    background-color: white;
+    padding: 90px;
+    
+}
+
+.bank{
+    width: 220px;
+}
+
+.one{
+    width: 80%;
+    /* border: 50px outset white; */
+    background-color: white;
+    padding: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.rahul{
+    width: 500px;
+}
+
+.button2{
+    
+        display: flex;
+        flex-direction: row;
+        background-color: darkblue;
+        border-radius: 40px;
+        color: aliceblue;
+        font-size: 20px;
+        font-family:  'Inter', sans-serif !important ;
+        font-weight: 400px;
+        margin-top: 40px;
+        padding: 15px 20px 15px 20px;
+        border: 1px solid black;
+    
+}
+
+.buis{
+    /* border: 50px outset white; */
+    background-color: white;
+    padding: 60px;
+   
+}
+
+.buis2{
+    background-color: white;
+    padding: 60px;
+    ;
+
+}
+.online{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 50px outset white;
+    background-color: rgb(182, 169, 198);
+    border-radius: 60px;
+    padding: 60px;
+}
+
+.venom{
+    width: 500px;
+}
+
+.fee{
+    width: 300px;
+}
+
+.parentofsmallboxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.pos{
+    font-size: 27px;
+    font-family:  'Inter', sans-serif !important ;
+    font-weight: 500;
+}
+
+.bow{
+    font-size: 16px;
+    font-family:  'Inter', sans-serif !important ;
+    font-weight: 800;
+}
+
+.hundr{
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ background-color: #f5f7fa;
+ font-family:  'Inter', sans-serif !important ;
+
+ 
+}
+
+.eighty{
+    width: 80%;
+    display: flex ;
+    flex-direction: row;
+    border-radius: 10px;
+    background-color: white;
+    padding: 80px;
+    align-items: center;
+    margin: 20px;
+}
+
+.fiftyone{
+  width: 50%;
+}
+
+.fiftytwo{
+  width: 50%;
+}
+
+.financial{
+    width: 100%;
+    
+}
+
+.one{
+    width: 80%;
+    /* border: 50px outset white; */
+    background-color: white;
+    padding: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.hundr2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: white;
+    font-family:  'Inter', sans-serif !important ;
+}
+
+.eightyone{
+    width: 80%;
+}
+
+.eightytwo{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 140px;
+   
+}
+
+.fin{
+    font-size: 50px;
+    padding-top: 100px;
+    padding-left: 90px;
+}
+
+.pay{
+    font-size: 50px;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.hundr3{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    font-family:  'Inter', sans-serif !important ;
+   }
+
+   .eightynew{
+    width: 80%;
+    display: flex ;
+    flex-direction: row;
+    border-radius: 10px;
+    background-color:#f5f7fa;
+    padding: 80px;
+    align-items: center;
+    margin: 20px;
+}
+
+.buisnessservice{
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.twentyfive{
+    width: 25%;
+    padding-left: 30px;
+}
